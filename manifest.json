@@ -1,0 +1,25 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "ais-dev-77kz6fkgxj6q3z44ya2dgr-489341937535.asia-southeast1.run",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "ais-dev-77kz6fkgxj6q3z44ya2dgr-489341937535.asia-southeast1.run",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://ais-dev-77kz6fkgxj6q3z44ya2dgr-489341937535.asia-southeast1.run.app/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ]
+}
